@@ -23,3 +23,26 @@ C:\Users\ITCROWD-3\documents\visual studio 2017\Projects\UI\Common\bin\Debug\Sys
 C:\Users\ITCROWD-3\documents\visual studio 2017\Projects\UI\Common\bin\Debug\System.Web.WebPages.Deployment.xml
 C:\Users\ITCROWD-3\documents\visual studio 2017\Projects\UI\Common\bin\Debug\System.Web.WebPages.Razor.xml
 C:\Users\ITCROWD-3\documents\visual studio 2017\Projects\UI\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\panev\Source\Repos\ui_vacation\Common\bin\Debug\Itc.Am.Common.dll.config
+C:\Users\panev\Source\Repos\ui_vacation\Common\bin\Debug\Itc.Am.Common.dll
+C:\Users\panev\Source\Repos\ui_vacation\Common\bin\Debug\Itc.Am.Common.pdb
+C:\Users\panev\Source\Repos\ui_vacation\Common\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\panev\Source\Repos\ui_vacation\Common\bin\Debug\System.Web.Helpers.dll
+C:\Users\panev\Source\Repos\ui_vacation\Common\bin\Debug\System.Web.Mvc.dll
+C:\Users\panev\Source\Repos\ui_vacation\Common\bin\Debug\System.Web.Razor.dll
+C:\Users\panev\Source\Repos\ui_vacation\Common\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\panev\Source\Repos\ui_vacation\Common\bin\Debug\System.Web.WebPages.dll
+C:\Users\panev\Source\Repos\ui_vacation\Common\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\panev\Source\Repos\ui_vacation\Common\bin\Debug\WebMatrix.Data.dll
+C:\Users\panev\Source\Repos\ui_vacation\Common\bin\Debug\WebMatrix.WebData.dll
+C:\Users\panev\Source\Repos\ui_vacation\Common\bin\Debug\System.Web.Helpers.xml
+C:\Users\panev\Source\Repos\ui_vacation\Common\bin\Debug\System.Web.Mvc.xml
+C:\Users\panev\Source\Repos\ui_vacation\Common\bin\Debug\System.Web.Razor.xml
+C:\Users\panev\Source\Repos\ui_vacation\Common\bin\Debug\System.Web.WebPages.xml
+C:\Users\panev\Source\Repos\ui_vacation\Common\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\panev\Source\Repos\ui_vacation\Common\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\panev\Source\Repos\ui_vacation\Common\bin\Debug\WebMatrix.Data.xml
+C:\Users\panev\Source\Repos\ui_vacation\Common\bin\Debug\WebMatrix.WebData.xml
+C:\Users\panev\Source\Repos\ui_vacation\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\panev\Source\Repos\ui_vacation\Common\obj\Debug\Itc.Am.Common.dll
+C:\Users\panev\Source\Repos\ui_vacation\Common\obj\Debug\Itc.Am.Common.pdb

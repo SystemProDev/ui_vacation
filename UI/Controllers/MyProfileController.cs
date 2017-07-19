@@ -150,10 +150,10 @@ namespace Itc.Am.UI.Controllers
 
             ViewBag.workHours = result;
 
-            MyReportVm vm = new MyReportVm();
-            vm.MyReports = recordlist;
-            vm.UserId = id;
-
+            MyReportVm vm = new MyReportVm() {
+                MyReports = recordlist,
+                UserId = id
+            };
             return View(vm);
         }
 
